@@ -165,10 +165,9 @@ Reset Button
 </androidx.constraintlayout.widget.ConstraintLayout>
 ```
 ## OUTPUT:
-
-![image](https://user-images.githubusercontent.com/75235293/169450655-625c51e5-e84e-40c8-a731-6256e344d636.png)
-![image](https://user-images.githubusercontent.com/75235293/169450717-6fbf72ee-28c8-463b-8fa1-1ec6c1e336ab.png)
-
+![6 1](https://user-images.githubusercontent.com/75235032/172109517-49fd6130-2be2-424c-9717-1cbd5833cd55.jpeg)
+![6 3](https://user-images.githubusercontent.com/75235032/172109543-ff7930a0-6462-4741-a9c6-a9a1b82f13e3.jpeg)
+![6 2](https://user-images.githubusercontent.com/75235032/172109526-b30fde04-62cb-4fda-94ad-95f1110e79de.jpeg)
 
 ## RESULT:
 Thus a Simple Android Application develop a program to accept username and password from the end user using Text View and Edit Text and display personal information of the student using Android Studio is developed and executed successfully.
